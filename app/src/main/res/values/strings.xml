@@ -1,0 +1,28 @@
+<resources>
+    <string name="app_name">CurriculumVitae</string>
+    <string name="action_settings">Settings</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="aboutme">
+        Currently I am pursuing my masters in computer science at Maharahi University of Management.I went to a collage called Eritrea Institute of Technology and graduated by computer engineering.After word I joined to a company Liyanet Engineering and Technology, my emphasis is in design,developing and testing softwares.
+    </string>
+    <string name="acheivements">
+    •	Improved performance and functionality by debugging and testing code.
+    •	Gained specialized expertise in Spring, Hibernate, Maven and RESTful web services.
+    •	Ensured timely completion of complex projects despite challenging deadlines
+    •	Successfully developed for more than 5 major projects with a team of 5
+    •	Improved new features and modules and optimized existing code.
+    •	Consistently improved quality and delivery standards during development of software solutions.
+    </string>
+    <string name="strength">
+        Positive Attitude.
+        Supreme Communication Skills.
+        Great at Time and Task Management.
+        Quick Learning Ability.
+        Deep and Broad Technical Experience.
+        A Good Team Player.
+        High-End User Focus.
+        OTHER THINGS TO CONSIDER.
+    </string>
+</resources>
