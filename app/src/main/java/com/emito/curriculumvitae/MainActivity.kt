@@ -1,9 +1,11 @@
 package com.emito.curriculumvitae
 
+import android.content.Intent
 import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle
 import android.view.Menu
 import android.view.MenuItem
+import android.view.View
 import com.google.android.material.snackbar.Snackbar
 import kotlinx.android.synthetic.main.activity_main.*
 
@@ -37,5 +39,10 @@ class MainActivity : AppCompatActivity() {
             R.id.action_settings -> true
             else -> super.onOptionsItemSelected(item)
         }
+    }
+
+    fun OnAddSkill(view: View) {
+        var intent= Intent(this,SkillActivity::class.java)
+        startActivity(intent)
     }
 }

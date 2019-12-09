@@ -23,6 +23,18 @@
         Deep and Broad Technical Experience.
         A Good Team Player.
         High-End User Focus.
-        OTHER THINGS TO CONSIDER.
+    </string>
+    <string name="weakness">
+        I focus too much on the details.
+        I have a hard time letting go of a project.
+        I have trouble saying “no.”
+        I get impatient when projects run beyond the deadline.
+        I have trouble asking for help.
+    </string>
+    <string name="skills">
+        Computer Programming / Coding.
+        Logical Thinking and Problem-solving.
+        Developing Your “Soft Skills”.
+        Patience and Attention to Detail.
     </string>
 </resources>
